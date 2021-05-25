@@ -1,7 +1,7 @@
 # Hierarchical-parsing
 This repo hosts code for hierarchical parsing.
 
-## Why Heierarchical parsing
+## Why hierarchical parsing
 
 Parsing is really important as it's the 1st step gathering text data.
 But instead of sticking with a nature reading (linear) structure, we could 
